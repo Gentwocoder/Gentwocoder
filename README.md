@@ -62,7 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gentwocoder/gentwocoder/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
