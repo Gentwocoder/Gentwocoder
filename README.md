@@ -49,10 +49,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.dreamstime.com/stock-illustration-samurai-pose-bushido-japanese-word-way-life-image45277828"  />
-</div>
-
 ###
 
 <picture>
